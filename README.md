@@ -1,13 +1,13 @@
 # ＳＩＤＶＥＲＳＥ ♠️
 
-- 🚀 **On the Launchpad:** Telegram Banning Sim, Instagram Crack Sim, AI-driven UX Tools  
-- 🧬 **Learning Curve:** AI Integration, Front-End Animation Tricks, E2E Simulation Flow  
-- 🤝 **Open to Collaborate:** Simulation Engines, Fun APIs, Story-based App UX  
+- 🚀 **On the Launchpad:** Building Apps, Telegram Banning, Instagram Crack, AI-driven UX Tools  
+- 🧬 **Learning Curve:** AI Integration, Front-End Animation Tricks, E2E Flow  
+- 🤝 **Open to Collaborate:** Tech Engines, Fun APIs, Story-based App UX  
 - 💭 **Need Guidance On:** Deployment, Optimization, Advanced Logic Loops  
-- 🎤 **Ask Me About:** YouTube Engagement, UI Illusion Design, Script Simulators  
-- 📧 **Contact:** imransir.dev@gmail.com  
-- 😎 **Goes By:** Imran Sir / Digital Illusionist  
-- ⚡ **Fun Fact:** Built 10+ fake hacking tools, fooled 1000+ brains 🧠💥
+- 🎤 **Ask Me About:** YouTube Engagement, UI Illusion Design, Scripts 
+- 📧 **Contact:** sidverse.0@gmail.com  
+- 😎 **Goes By:** Digital Illusionist  
+- ⚡ **Fun Fact:** Built 50+ Hacking Tools & Apps, Blow 1000+ Brains 🧠💥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidverse.0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shaitaanidastaan)
