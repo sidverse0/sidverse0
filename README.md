@@ -1,13 +1,13 @@
-# ＳＩＤＶＥＲＳＥ 
+# ＳＩＤＶＥＲＳＥ ♠️
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🚀 **On the Launchpad:** Telegram Banning Sim, Instagram Crack Sim, AI-driven UX Tools  
+- 🧬 **Learning Curve:** AI Integration, Front-End Animation Tricks, E2E Simulation Flow  
+- 🤝 **Open to Collaborate:** Simulation Engines, Fun APIs, Story-based App UX  
+- 💭 **Need Guidance On:** Deployment, Optimization, Advanced Logic Loops  
+- 🎤 **Ask Me About:** YouTube Engagement, UI Illusion Design, Script Simulators  
+- 📧 **Contact:** imransir.dev@gmail.com  
+- 😎 **Goes By:** Imran Sir / Digital Illusionist  
+- ⚡ **Fun Fact:** Built 10+ fake hacking tools, fooled 1000+ brains 🧠💥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sidverse.0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shaitaanidastaan)
